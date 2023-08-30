@@ -7,16 +7,27 @@ This dataset contains information related to credit card transactions, with a fo
 **Dataset Columns:**
 
 **- Merchant_id:** An identifier for the merchant involved in the transaction.
+
 **- Transaction date:** The date of the transaction. (Note: All entries in this column are missing values, so this column might not be useful for analysis.)
+
 **- Average Amount/transaction/day:** The average amount of transactions made per day.
+
 **- Transaction_amount:** The amount of the transaction.
+
 **- Is declined:** Indicates whether the transaction was declined.
+
 **- Total Number of declines/day:** The total number of transaction declines per day.
+
 **- isForeignTransaction:** Indicates whether the transaction is a foreign transaction (made in a different country).
+
 **- isHighRiskCountry:** Indicates whether the transaction involves a high-risk country.
+
 **- Daily_chargeback_avg_amt:** The average amount of chargebacks per day.
+
 **- 6_month_avg_chbk_amt:** The average chargeback amount over the last six months.
+
 **- 6-month_chbk_freq:** The frequency of chargebacks over the last six months.
+
 **- isFradulent:** The target variable, indicating whether the transaction is fraudulent or not.
 
 **Data Characteristics:** 
