@@ -41,20 +41,20 @@ Table of Contents
 =================
 
 [Data Visualization](https://github.com/Khadija-khanom/Credir_Card_Fraud_Detection3/blob/main/README.md#data-visualization)
+
 [Implementation process Of Machine learning models](https://github.com/Khadijakhanom/Credir_Card_Fraud_Detection3/blob/main/README.md#implementation-process-of-machine-learning-models)
 
 [Evaluating the performance of machine learning models](https://github.com/Khadijakhanom/Credir_Card_Fraud_Detection3/blob/main/README.md#evaluating-the-performance-of-machine-learning-models)
+
  * [Random forest Model](https://github.com/Khadijakhanom/Credir_Card_Fraud_Detection3/blob/main/README.md#random-forest-model)
+   
  * [Decision Tree Model](https://github.com/Khadijakhanom/Credir_Card_Fraud_Detection3/blob/main/README.md#decision-tree-model)
+   
  * [Logistic Regression Model](https://github.com/Khadijakhanom/Credir_Card_Fraud_Detection3/blob/main/README.md#logistic-regression-model)
+   
  * [K-Nearest Neighbors (KNN) Model](https://github.com/Khadija-khanom/Credir_Card_Fraud_Detection3/blob/main/README.md#k-nearest-neighbors-knn-model)
+
 [Implementation process Of deep learning models](https://github.com/Khadijakhanom/Credir_Card_Fraud_Detection3/blob/main/README.md#implementation-process-of-deep-learning-models)
- * [Convolutional Neural Network (CNN) Model]https://github.com/Khadijakhanom/Credir_Card_Fraud_Detection3/blob/main/README.md#convolutional-neural-network-cnn-model
- * [Recurrent Neural Network (RNN) Model]( https://github.com/Khadija-khanom/Credir_Card_Fraud_Detection3/blob/main/README.md#recurrent-neural-network-rnn-model)
-[Evaluating the performance of Deep learning models]( https://github.com/Khadija-khanom/Credir_Card_Fraud_Detection3/blob/main/README.md#evaluating-the-performance-of-deep-learning-models)
- * [Convolutional Neural Network (CNN) Model]( https://github.com/Khadija-khanom/Credir_Card_Fraud_Detection3/blob/main/README.md#convolutional-neural-network-cnn-model-1)
- * [Recurrent Neural Network (RNN) Model]( https://github.com/Khadija-khanom/Credir_Card_Fraud_Detection3/blob/main/README.md#recurrent-neural-network-rnn-model-1)
-[Comparative analysis between machine learning and deep learning models]( https://github.com/Khadijakhanom/Credir_Card_Fraud_Detection3/blob/main/README.md#comparative-analysis-between-machine-learning-and-deep-learning-models)
 
 
 
