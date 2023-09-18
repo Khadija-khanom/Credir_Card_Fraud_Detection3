@@ -56,6 +56,9 @@ Table of Contents
 
 [Implementation process Of deep learning models](https://github.com/Khadijakhanom/Credir_Card_Fraud_Detection3/blob/main/README.md#implementation-process-of-deep-learning-models)
 
+ *[Convolutional Neural Network (CNN)Model]https://github.com/Khadijakhanom/Credir_Card_Fraud_Detection3/blob/main/README.md#convolutional-neural-network-cnn-model
+ 
+
 
 
 #  Data Visualization
