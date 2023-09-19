@@ -239,6 +239,24 @@ The Logistic Regression model performs reasonably well, but its precision and re
 
 The K-Nearest Neighbors model achieves relatively good accuracy, but its performance is not as balanced as the Random Forest model. It exhibits a higher number of false negatives, indicating that it could benefit from further tuning or other algorithm choices to improve its performance on classifying fraudulent transactions.
 
+### Learning Curve of machine learning models 
+
+**Random Forest model**
+
+![image](https://github.com/Khadija-khanom/Credir_Card_Fraud_Detection3/assets/138976722/2256e4d1-9528-4192-a547-23197b48a3e0)
+
+**Decision Tree Model**
+
+![image](https://github.com/Khadija-khanom/Credir_Card_Fraud_Detection3/assets/138976722/b5007db4-0387-4d2d-983a-d97c8753f0fc)
+
+**Logistic Regression Model**
+
+![image](https://github.com/Khadija-khanom/Credir_Card_Fraud_Detection3/assets/138976722/53287ce3-6337-4e82-a3f3-4370bd4642a3)
+
+**K-Nearest Neighbors (KNN) Model**
+
+![image](https://github.com/Khadija-khanom/Credir_Card_Fraud_Detection3/assets/138976722/cd1ef57e-fd4d-4708-a722-18a7ae04c0e2)
+
 
 # Implementation process Of deep learning models
 
@@ -366,6 +384,17 @@ The CNN model shows promising results for credit card fraud detection. It achiev
 - **Confusion Matrix (RNN):** The RNN model shows a reasonable balance between false positives and false negatives, suggesting effective classification performance for both classes.
 
 The RNN model also shows promising results for credit card fraud detection. It achieves a high level of accuracy and provides a balanced classification performance, indicating its potential utility in identifying both non-fraudulent and fraudulent transactions. The precision, recall, and F1-score metrics provide insights into the RNN model's capability to classify transactions accurately.
+
+### Learning Curve of Deep learning Model
+
+**Convolutional Neural Network (CNN) Model**
+
+![image](https://github.com/Khadija-khanom/Credir_Card_Fraud_Detection3/assets/138976722/e6d17618-192a-4d33-aa04-4e6cc61174d9)
+
+**Recurrent Neural Network (RNN) Model**
+
+![image](https://github.com/Khadija-khanom/Credir_Card_Fraud_Detection3/assets/138976722/72f780c4-8595-4cf4-afff-68adbe627b10)
+
 
 # Comparative analysis between machine learning and deep learning models
 
